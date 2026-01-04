@@ -1,0 +1,7 @@
+Exemplos:
+
+✅ [DONE] Feature: Detectar abas de navegadores (#1)
+✅ [DONE] Bug fix: Gráfico não gera em alguns horários (#2)
+🔄 [IN PROGRESS] Feature: Suporte Wayland (#3)
+📋 [TODO] Enhancement: Dashboard web com Flask (#4)
+📋 [TODO] Exportar dados para JSON/CSV (#5)
