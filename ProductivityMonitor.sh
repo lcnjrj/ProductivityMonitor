@@ -6,8 +6,8 @@
 # Automated time tracking system for Linux/LXQt environments
 # Generates detailed reports and visual charts of computer usage
 #Descrição: Monitora atividade do usuário, gera relatórios e gráficos
-# Agora detecta títulos/sites das abas abertas em navegadores!
-# Author: Luciana Jorge de Faria (@lcnjrj)
+# Agora detecta títulos/sites das abas abertas em navegadores.
+# Author: Luciana Jorge de Faria (@lcnjrj) / AI
 # Version: 2.3.0
 # License: MIT
 # Repository: https://github.com/lcnjrj/ProductivityMonitor
@@ -15,7 +15,7 @@
 
 
 # Configurações
-RELATORIO_DIR="/brain-files/10.MINHA_ATIVIDADE_RALATORIOS_GRAFICOS/claude01b"
+RELATORIO_DIR="/home/10.MINHA_ATIVIDADE_RALATORIOS_GRAFICOS"
 LOG_TEMP="$RELATORIO_DIR/temp_log.dat"
 INTERVALO_COLETA=100 # segundos
 TEMPO_OCIOSO_MAX=360 # 3 minutos para considerar ocioso
