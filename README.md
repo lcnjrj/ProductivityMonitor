@@ -106,7 +106,7 @@ Edite o início do script para personalizar:
 
 ```bash
 # Diretório onde relatórios serão salvos
-RELATORIO_DIR="/brain-files/10.MINHA_ATIVIDADE_RALATORIOS_GRAFICOS/claude01b"
+RELATORIO_DIR="/home/10.MINHA_ATIVIDADE_RALATORIOS_GRAFICOS"
 
 # Intervalo de coleta em segundos (padrão: 100s)
 INTERVALO_COLETA=100
