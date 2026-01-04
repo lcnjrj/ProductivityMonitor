@@ -1,4 +1,3 @@
-# ProductivityMonitor📊 Productivity Monitor - Sistema de Monitoramento Automático de Produtividade
 # 📊 Productivity Monitor - Sistema de Monitoramento Automático de Produtividade
 
  Rastreamento inteligente de atividades em Linux/LXQt com detecção de abas de navegadores, geração de relatórios e gráficos visuais
