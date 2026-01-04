@@ -1,8 +1,7 @@
 # ProductivityMonitor📊 Productivity Monitor - Sistema de Monitoramento Automático de Produtividade
 # 📊 Productivity Monitor - Sistema de Monitoramento Automático de Produtividade
 
-> Rastreamento inteligente de atividades em Linux/LXQt com detecção de abas de navegadores, geração de relatórios e gráficos visuais
-
+ Rastreamento inteligente de atividades em Linux/LXQt com detecção de abas de navegadores, geração de relatórios e gráficos visuais
 [![Bash](https://img.shields.io/badge/Bash-4.0%2B-green?style=flat&logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 [![LXQt](https://img.shields.io/badge/LXQt-Compatible-blue)](https://lxqt-project.org/)
@@ -10,6 +9,16 @@
 [![Version](https://img.shields.io/badge/Version-2.3-blue)](https://github.com/lcnjrj/productivity-monitor-linux)
 
 ---
+
+ ![Exemplo_do_grafico](https://github.com/lcnjrj/ProductivityMonitor/blob/main/docs/exemplo_grafico.png)
+ 
+ 
+ ![Exemplo_de_relatorio](https://github.com/lcnjrj/ProductivityMonitor/blob/main/docs/exemplo_relatorio.png)
+ 
+ 
+ ![Exemplo_de_uso](https://github.com/lcnjrj/ProductivityMonitor/blob/main/docs/exemplo_uso.png)
+ 
+
 
 ## 📋 Sobre o Projeto
 
